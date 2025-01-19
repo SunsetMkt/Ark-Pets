@@ -132,13 +132,17 @@
 
 ### 参与贡献
 
-您可以通过提交 [Issues](https://github.com/isHarryh/Ark-Pets/issues) 等各种方式参与本项目的贡献。 提交 Issues 前，请确认您的议题与已有的议题不重复。提交 Issues 时，请您完整地填写议题模板。
+您可以通过提交 [Issues](https://github.com/isHarryh/Ark-Pets/issues) 等各种方式参与本项目的贡献。提交 Issues 前，请确认您的议题与已有的议题不重复。提交 Issues 时，请您完整地填写议题模板。
 
 - 另见 ~~很久没更新的~~ [开发者 Wiki](https://github.com/isHarryh/Ark-Pets/wiki)
 
 ### 友情链接
 
-以下项目是 ArkPets 的关联或衍生项目：
+#### GitS 赞助方
+
+[<img src="https://api.gitsponsors.com/api/badge/img?id=536830754" height="20">](https://api.gitsponsors.com/api/badge/link?p=2VO4dYmDHdYIV/LoZIJWmEo6rxePAzn0clcD3zcN8vcHIvEGwO79sGDVeJ9VZFjSpBASwx9VKrLA89Ryx5aF7EXoIa4zHm89mxWfhCWqmBj0D0prDfl/JwVPqR1PQq1L6h5FYw7rLAf5hRwWo/t1aA==)
+
+#### 关联或衍生项目
 
 - [isHarryh / Ark-Models](https://github.com/isHarryh/Ark-Models)：明日方舟 Spine 模型库
 - [litwak913 / Ark-Pets-Integration](https://github.com/litwak913/Ark-Pets-Integration)：ArkPets 针对其他桌面系统的集成库
